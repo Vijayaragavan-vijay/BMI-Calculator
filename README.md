@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI-Calculator Using HTML,CSS,JS
 live site-https://eclectic-concha-9ec3f3.netlify.app/
 
 screenshots:
